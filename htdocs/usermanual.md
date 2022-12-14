@@ -20,25 +20,24 @@ If everything is imported correctly, you can find the song table within your Php
 ## User Interface
 
 1. Regions Best Song Feature (Query)  
-  a. Choose a region from the list 
-  b. Click SEARCH.
-
+    1. Choose a region from the list 
+    2. Click SEARCH.
 2. Click RETURN HOME to return back to the homepage.
-a. All Time Artists Feature (Query)
-b. Click SEARCH.
-c. Click RETURN HOME to return back to the homepage.
+    1. All Time Artists Feature (Query)
+    2. Click SEARCH.
+    3. Click RETURN HOME to return back to the homepage.
 3. Years Best Feature (Query)
-a. Click on the SEARCH button.
-b. Songs from Artist Feature (Query)
+    1. Click on the SEARCH button.
+    2. Songs from Artist Feature (Query)
 4. Enter an artist name into the text field.
-a. Click SEARCH.
-b. Click RETURN HOME to return back to the homepage.
+    1. Click SEARCH.
+    2. Click RETURN HOME to return back to the homepage.
 5. Artists Total Streams Feature (Query)
-a. Choose an artist from the list.
-b. Click SEARCH.
-c. Click RETURN HOME to return back to the homepage.
+    1. Choose an artist from the list.
+    2. Click SEARCH.
+    3. Click RETURN HOME to return back to the homepage.
 6. Regional Artist Streams Feature (Query)
-a. Choose an artist from the list.
-b. Choose a region from the list.
-c. Click SEARCH.
-d. Click RETURN HOME to return back to the homepage.
+    1. Choose an artist from the list.
+    2. Choose a region from the list.
+    3. Click SEARCH.
+    4. Click RETURN HOME to return back to the homepage.
